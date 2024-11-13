@@ -5,6 +5,12 @@
 ### What is an Array?
 An array is a data structure that holds a fixed-size sequence of elements of the same type. Elements in an array are stored in contiguous memory locations.
 
+Advantages
+Code Optimization: It makes the code optimized, we can retrieve or sort the data efficiently.
+Random access: We can get any data located at an index position.
+Disadvantages
+Size Limit: We can store only the fixed size of elements in the array. It doesn't grow its size at runtime. To solve this problem, collection framework is used in Java which grows automatically.
+
 ### Operations on Arrays:
 - **Insertion:** Add an element at a specified position.
 - **Deletion:** Remove an element from a specified position.
