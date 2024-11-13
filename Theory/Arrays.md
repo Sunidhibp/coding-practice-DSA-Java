@@ -1,8 +1,9 @@
-"# Arrays " 
-https://www.javatpoint.com/array-in-java
+"# Arrays" 
+
 # Arrays and Strings - Theory & Approach
 
 ## Arrays:
+https://www.javatpoint.com/array-in-java
 ### What is an Array?
 An array is a data structure that holds a fixed-size sequence of elements of the same type. Elements in an array are stored in contiguous memory locations.
 
