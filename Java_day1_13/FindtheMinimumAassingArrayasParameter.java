@@ -1,5 +1,5 @@
 public class FindtheMinimumAassingArrayasParameter {
-    static void min(int arr[]) {
+    static void min(int[] arr) {
         int min = arr[0];
         for (int i = 1; i < arr.length; i++) {
             if (min > arr[i]) {
