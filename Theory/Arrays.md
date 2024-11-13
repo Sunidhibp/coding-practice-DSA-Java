@@ -18,6 +18,9 @@ An array is a data structure that holds a fixed-size sequence of elements of the
 - **Deletion:** Remove an element from a specified position.
 - **Searching:** Find an element in the array.
 - **Sorting:** Arrange elements in a specific order (ascending or descending).
+
+ ### Why not .length(): 
+ - The reason .length is not a method with parentheses is a design decision in Java to keep things simple for arrays. Since the length of an array is a basic property, Java provides it as a built-in field, so you access it directly rather than calling it as a method.
   
 ### Steps to Approach Array Problems:
 1. **Understand the problem:** Read and identify the constraints, edge cases, and what you need to find.
